@@ -8,5 +8,3 @@ RUN yum install -y curl && \
     curl -L ${CONFD_BINARY_URL} -o ${CONFD_BINARY_PATH} && \
 	chmod 755 ${CONFD_BINARY_PATH} && \
 	mkdir -p /etc/confd/{conf.d,templates}
-
-ADD etc/confd/ /etc/confd
