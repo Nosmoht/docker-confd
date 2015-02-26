@@ -23,4 +23,4 @@ Author Information
 ----------
 Thomas Krahn
 
-[confd-link]: http://www.confd.io/
+[confd-link]: http://www.confd.io/ 
